@@ -5,7 +5,7 @@ const doc = {
     title: 'cse341',
     description: 'Description',
   },
-  host: 'https://cse341-ulises.onrender.com',
+  host: 'https://cse341-ulises.onrender.com/api-docs',
   schemes: ['https'],
 };
 
