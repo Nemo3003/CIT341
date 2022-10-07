@@ -5,8 +5,8 @@ const doc = {
     title: 'cse341',
     description: 'Description',
   },
-  host: 'cse341-ulises.onrender.com',
-  schemes: ['https'],
+  host: '',
+  schemes: ['https', 'http'],
 };
 
 const outputFile = './routes/swagger-output.json';
