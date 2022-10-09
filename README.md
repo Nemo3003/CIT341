@@ -1,2 +1,2 @@
 # CSE341
-- Fall Semester
+- Fall Semester.
